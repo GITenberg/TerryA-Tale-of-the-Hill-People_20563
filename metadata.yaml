@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9389'
     url: http://www.gutenberg.org/2009/agents/9389
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20563#TerryA-Tale-of-the-Hill-People
 gutenberg_issued: '2007-02-11'
 gutenberg_type: Text
 identifiers:
